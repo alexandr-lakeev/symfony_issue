@@ -1,0 +1,5 @@
+vendor_first:
+  some_param: '%env(int:SOME_PARAM)%'
+
+vendor_second:
+  some_param: '%env(int:SOME_PARAM)%'
